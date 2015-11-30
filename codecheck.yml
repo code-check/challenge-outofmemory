@@ -1,0 +1,2 @@
+build:
+  - gcc outofmemory.c -o bin/outofmemory

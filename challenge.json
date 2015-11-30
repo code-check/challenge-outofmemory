@@ -1,0 +1,7 @@
+{
+  "excludes": [
+    "challenge.json",
+    "codecheck.yml"
+  ],
+  "test": "mocha test"
+}
