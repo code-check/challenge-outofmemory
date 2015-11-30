@@ -1,4 +1,4 @@
-!.gitkeep
-/node_modules
+node_modules/
+bin/**
 !bin/.gitkeep
-bin
+!.gitkeep
