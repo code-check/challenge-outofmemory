@@ -1,4 +1,7 @@
 {
+  "editable": [
+    "README-ja.md"
+  ],
   "excludes": [
     "challenge.json",
     "codecheck.yml"
